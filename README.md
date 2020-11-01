@@ -2,5 +2,5 @@
 It is a event ticket booking website which is built in php , javascript, mysql, html.
 @mukesh50 and @sudhanrajarajan
 
-Project URL:-http://eventstime.freecluster.eu
+<a href="http://eventstime.freecluster.eu">View Project</a>
 
